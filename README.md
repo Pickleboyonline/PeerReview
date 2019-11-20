@@ -21,3 +21,7 @@ found int "/front-end/src/App.js" to see your changes live!
 For more information on how to build an React App, please visit
 
 https://reactjs.org/docs/hello-world.html
+
+
+IMPORTANT LINKS - 
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow
