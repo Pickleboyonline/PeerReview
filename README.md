@@ -2,17 +2,22 @@
 
 Hello
 
-You will need 3 things:
-    NodeJs
-        - https://nodejs.org/en/download/
-        - This allows you to use all the nessecary software
-    GitHub Desktop
-        - https://desktop.github.com/
-        - This is an easy way to use download and change the source code
-    Visual Studio Code
-        - https://desktop.github.com/
-        - A really good code editor
+You will need 3 things: 
+---
+NodeJs
+* https://nodejs.org/en/download/
+- This allows you to use all the nessecary software
+    
+GitHub Desktop
+- https://desktop.github.com/
+- This is an easy way to use download and change the source code
 
+Visual Studio Code
+- https://desktop.github.com/
+- A really good code editor
+
+Directions
+---
 Log into Github Desktop and clone this repository, then open it in Visual Studio Code to start editing.
 Open the terminal by going into Terminal > New Terminal and type "cd front-end && npm install" into the terminal- this will install 
 all the necessary packages needed to run the app. Next, type "npm start" in the terminal to run the project. Start editing "App.js"
