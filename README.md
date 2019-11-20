@@ -6,7 +6,7 @@ You will need 3 things:
 ---
 NodeJs
 * https://nodejs.org/en/download/
-- This allows you to use all the nessecary software
+- This allows you to use all the necessary software
     
 GitHub Desktop
 - https://desktop.github.com/
